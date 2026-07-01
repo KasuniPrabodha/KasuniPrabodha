@@ -81,7 +81,7 @@ void main() {
   <tbody>
     <tr>
       <td align="center">🍥</td>
-      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Dine-Square Restaurant Website</b></a></td>
+      <td><a href="https://github.com/KasuniPrabodha/Dine-Square-Restaurant-Website"><b>Dine-Square Restaurant Website</b></a></td>
       <td>Smart Dining: The Future of Restaurant Experiences</td>
       <td><code>HTML</code> <code>CSS</code> <code>JS</code></td>
     </tr>
