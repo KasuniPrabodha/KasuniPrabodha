@@ -93,7 +93,7 @@ void main() {
     </tr>
     <tr>
       <td align="center">🪪</td>
-      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>My-Illutrations</b></a></td>
+      <td><a href="https://github.com/KasuniPrabodha/My-Illustrations"><b>My-Illutrations</b></a></td>
       <td>curated collection of graphic design projects</td>
       <td><code>Adobe Illustrator</code></td>
     </tr>
