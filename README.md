@@ -72,11 +72,9 @@ void main() {
 ### 📊 GitHub Stats
 <p align="left">
   <a href="https://github.com/KasuniPrabodha" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=KasuniPrabodha&show_icons=true&theme=gotham" alt="Kasuni's GitHub Stats" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=KasuniPrabodha&show_icons=true&theme=gotham" alt="Kasuni's GitHub Stats" height="160" />
   </a>
   <a href="https://github.com/KasuniPrabodha" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasuniPrabodha&layout=compact&theme=gotham" alt="Kasuni's Top Languages" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasuniPrabodha&layout=compact&theme=gotham" alt="Kasuni's Top Languages" height="160" />
   </a>
 </p>
-
----
