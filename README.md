@@ -14,7 +14,42 @@
 </p>
 
 ---
+## 💙 About Me
 
+```dart
+class Developer {
+  final String name;
+  final String location;
+  final String education;
+  final List<String> skills;
+  final List<String> designTools;
+  final bool available;
+  final String motto;
+
+  const Developer({
+    required this.name,
+    required this.location,
+    required this.education,
+    required this.skills,
+    required this.designTools,
+    required this.available,
+    required this.motto,
+  });
+}
+
+void main() {
+  const kasuni = Developer(
+    name: "Kasuni Prabodha Waravita",
+    location: "Galle, Sri Lanka",
+    education: "ATI Galle · HNDIT",
+    skills: ["Flutter", "Dart", "PHP", "HTML5", "CSS3", "MySQL"],
+    designTools: ["Adobe Illustrator", "Adobe Photoshop"],
+    available: true, // open to opportunities! 🎯
+    motto: "Where logical code meets creative design ✨",
+  );
+}
+```
+---
 ### 💻 Tech Stack & Tools
 
 <p align="left">
