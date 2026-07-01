@@ -95,7 +95,7 @@ void main() {
       <td align="center">🪪</td>
       <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>My-Illutrations</b></a></td>
       <td>curated collection of graphic design projects</td>
-      <td><code>Python</code></td>
+      <td><code>Adobe Illustrator</code></td>
     </tr>
     <tr>
       <td align="center">⛑️</td>
