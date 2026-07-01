@@ -80,28 +80,28 @@ void main() {
   </thead>
   <tbody>
     <tr>
-      <td align="center">🌿</td>
-      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Plantation & Export System</b></a></td>
-      <td>AgriLink — real-time plantation tracking & export management</td>
-      <td><code>React</code> <code>Firebase</code> <code>JS</code></td>
+      <td align="center">🍥</td>
+      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Dine-Square Restaurant Website</b></a></td>
+      <td>Smart Dining: The Future of Restaurant Experiences</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JS</code></td>
     </tr>
     <tr>
-      <td align="center">📦</td>
-      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Inventory Expiry Tracker</b></a></td>
-      <td>Min Heap + FIFO Queue to auto-flag expired products</td>
-      <td><code>Python</code> <code>DSA</code></td>
+      <td align="center">📱</td>
+      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>TourMate LK Mobile Application</b></a></td>
+      <td>Smart travel companion for exploring Sri Lanka</td>
+      <td><code>Flutter</code> <code>Dart</code> <code>FireBase</code></td>
     </tr>
     <tr>
-      <td align="center">❓</td>
-      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Quiz Generator</b></a></td>
-      <td>MCQ, True/False & Short Questions generator 🔥</td>
+      <td align="center">🪪</td>
+      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>My-Illutrations</b></a></td>
+      <td>curated collection of graphic design projects</td>
       <td><code>Python</code></td>
     </tr>
     <tr>
-      <td align="center">🌐</td>
-      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Portfolio Website</b></a></td>
-      <td>Personal portfolio — skills, projects & contact info</td>
-      <td><code>HTML</code> <code>CSS</code></td>
+      <td align="center">⛑️</td>
+      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Health Care Mobile Application</b></a></td>
+      <td>Digital healthcare and medical companion</td>
+      <td><code>Flutter</code> <code>Dart</code></td>
     </tr>
   </tbody>
 </table>
