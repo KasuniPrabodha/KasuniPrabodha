@@ -87,7 +87,7 @@ void main() {
     </tr>
     <tr>
       <td align="center">📱</td>
-      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>TourMate LK Mobile Application</b></a></td>
+      <td><a href="https://github.com/KasuniPrabodha/TourMate-LK"><b>TourMate LK Mobile Application</b></a></td>
       <td>Smart travel companion for exploring Sri Lanka</td>
       <td><code>Flutter</code> <code>Dart</code> <code>FireBase</code></td>
     </tr>
