@@ -14,7 +14,7 @@
 </p>
 
 ---
-## 💙 About Me
+## 👩‍💻 About Me
 
 ```dart
 class Developer {
@@ -44,8 +44,8 @@ void main() {
     education: "ATI Galle · HNDIT",
     skills: ["Flutter", "Dart", "PHP", "HTML5", "CSS3", "MySQL"],
     designTools: ["Adobe Illustrator", "Adobe Photoshop"],
-    available: true, // open to opportunities! 🎯
-    motto: "Where logical code meets creative design ✨",
+    available: true, // open to opportunities!
+    motto: "Where logical code meets creative design",
   );
 }
 ```
