@@ -28,7 +28,7 @@ An Information Technology Student and passionate Graphic Designer from Sri Lanka
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KasuniPrabodha&show_icons=true&theme=gotham" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=gotham" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasuniPrabodha&layout=compact&theme=gotham" alt="Top Languages" height="160"/>
 </p>
 
 ---
