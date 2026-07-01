@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Kasuni Prabodha Waravita 👋</h1>
+<h1 align="center">I'm Kasuni Prabodha Waravita</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=31A8FF&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Graphic+Designer;Building+the+future+one+commit+at+a+time" alt="Typing SVG" />
