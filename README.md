@@ -60,7 +60,6 @@ void main() {
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
----
 
 <p align="left">
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
@@ -72,9 +71,9 @@ void main() {
 ### 📊 GitHub Stats
 <p align="left">
   <a href="https://github.com/KasuniPrabodha" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=KasuniPrabodha&show_icons=true&theme=gotham" alt="Kasuni's GitHub Stats" height="160" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KasuniPrabodha&show_icons=true&theme=gotham" alt="Kasuni's GitHub Stats" height="160" />
   </a>
   <a href="https://github.com/KasuniPrabodha" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasuniPrabodha&layout=compact&theme=gotham" alt="Kasuni's Top Languages" height="160" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KasuniPrabodha&layout=compact&theme=gotham" alt="Kasuni's Top Languages" height="160" />
   </a>
 </p>
