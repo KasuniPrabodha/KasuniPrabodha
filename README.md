@@ -1,14 +1,16 @@
+<h1 align="center">Hi there, I'm Kasuni Prabodha Waravita 👋</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=134a26&height=200&section=header&text=K%20P%20%20Kasuni&fontSize=70&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=31A8FF&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Graphic+Designer;Building+the+future+one+commit+at+a+time" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Information+Technology+Student;Graphic+Designer;Building+the+future+one+commit+at+a+time" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/kasuni-prabodha" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/KasuniPrabodha" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -28,9 +30,3 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
 </p>
-
----
-
-### 📫 Connect with me:
-* 💼 LinkedIn: [www.linkedin.com/in/kasuni-prabodha](https://www.linkedin.com/in/kasuni-prabodha)
-* 📧 Email: kasunipwaravita@gmail.com
