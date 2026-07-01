@@ -1,7 +1,7 @@
-<h1 align="center">I'm Kasuni Prabodha Waravita</h1>
+<h1 align="center">Kasuni Prabodha Waravita</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=31A8FF&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Full+Stack+Developer;Flutter+Mobile+Application+Developer;Graphic+Designer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=31A8FF&center=true&vCenter=true&width=600&lines=Information+Technology+Student;Full+Stack+Developer;Flutter+Mobile+Application+Developer;Graphic+Designer;Bridging+the+gap+between+Code+and+Design;" alt="Typing SVG" />
 </p>
 
 <p align="center">
