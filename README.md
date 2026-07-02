@@ -40,7 +40,7 @@ class Developer {
 void main() {
   const kasuni = Developer(
     name: "Kasuni Prabodha Waravita",
-    location: "Galle, Sri Lanka",
+    location: "Matara, Sri Lanka",
     education: "ATI Galle · HNDIT",
     skills: ["Flutter", "Dart", "PHP", "HTML5", "CSS3", "MySQL"],
     designTools: ["Adobe Illustrator", "Adobe Photoshop"],
