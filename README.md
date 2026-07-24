@@ -104,6 +104,12 @@ void main() {
       <td><code>Flutter</code> <code>Dart</code></td>
     </tr>
     <tr>
+      <td align="center">🧮</td>
+      <td><a href="https://github.com/KasuniPrabodha/Mini-Calculator"><b>Awesome Places Basic Mobile Application</b></a></td>
+      <td>AA simple and interactive Mini Calculator app</td>
+      <td><code>Flutter</code> <code>Dart</code></td>
+    </tr>
+    <tr>
       <td align="center">💪</td>
       <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Health Care Mobile Application</b></a></td>
       <td>Digital healthcare and medical companion</td>
