@@ -99,6 +99,12 @@ void main() {
     </tr>
     <tr>
       <td align="center">⛑️</td>
+      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Awesome Places Basic Mobile Application</b></a></td>
+      <td>A basic Flutter app built for learning purposes</td>
+      <td><code>Flutter</code> <code>Dart</code></td>
+    </tr>
+    <tr>
+      <td align="center">⛑️</td>
       <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Health Care Mobile Application</b></a></td>
       <td>Digital healthcare and medical companion</td>
       <td><code>Flutter</code> <code>Dart</code></td>
