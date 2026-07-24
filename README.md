@@ -43,7 +43,7 @@ void main() {
     location: "Matara, Sri Lanka",
     education: "ATI Galle · HNDIT",
     skills: ["Flutter", "Dart", "PHP", "HTML5", "CSS3", "MySQL", "Java"],
-    designTools: ["Adobe Illustrator", "Adobe Photoshop"],
+    designTools: ["Adobe Illustrator"],
     available: true, // open to opportunities!
     motto: "Where logical code meets creative design",
   );
