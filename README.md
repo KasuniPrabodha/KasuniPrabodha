@@ -98,8 +98,8 @@ void main() {
       <td><code>Adobe Illustrator</code></td>
     </tr>
     <tr>
-      <td align="center">⛑️</td>
-      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Awesome Places Basic Mobile Application</b></a></td>
+      <td align="center">🗻</td>
+      <td><a href="https://github.com/KasuniPrabodha/Awesome-Places-Basic-Mobile-Application"><b>Awesome Places Basic Mobile Application</b></a></td>
       <td>A basic Flutter app built for learning purposes</td>
       <td><code>Flutter</code> <code>Dart</code></td>
     </tr>
