@@ -42,7 +42,7 @@ void main() {
     name: "Kasuni Prabodha Waravita",
     location: "Matara, Sri Lanka",
     education: "ATI Galle · HNDIT",
-    skills: ["Flutter", "Dart", "PHP", "HTML5", "CSS3", "MySQL"],
+    skills: ["Flutter", "Dart", "PHP", "HTML5", "CSS3", "MySQL", "Java"],
     designTools: ["Adobe Illustrator", "Adobe Photoshop"],
     available: true, // open to opportunities!
     motto: "Where logical code meets creative design",
