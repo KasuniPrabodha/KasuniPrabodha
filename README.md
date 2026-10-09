@@ -115,6 +115,12 @@ void main() {
       <td>Digital healthcare and medical companion</td>
       <td><code>Flutter</code> <code>Dart</code></td>
     </tr>
+    <tr>
+      <td align="center">🃏</td>
+      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Health Care Mobile Application</b></a></td>
+      <td>Blackjack Game</td>
+      <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></td>
+    </tr>
   </tbody>
 </table>
 
