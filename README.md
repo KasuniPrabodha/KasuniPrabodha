@@ -117,8 +117,8 @@ void main() {
     </tr>
     <tr>
       <td align="center">🃏</td>
-      <td><a href="https://github.com/KasuniPrabodha/Your-Repo-Name"><b>Health Care Mobile Application</b></a></td>
-      <td>Blackjack Game</td>
+      <td><a href="https://github.com/KasuniPrabodha/Black-Jack-Game"><b>Black Jack Game</b></a></td>
+      <td>A simple Blackjack card game built with HTML, CSS, and JavaScripte</td>
       <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></td>
     </tr>
   </tbody>
