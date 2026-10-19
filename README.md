@@ -44,7 +44,7 @@ void main() {
     name: "Kasuni Prabodha Waravita",
     location: "Matara, Sri Lanka",
     education: "ATI Galle · HNDIT",
-    currentRole: "IT Intern @ Divisional Secretariat",
+    currentRole: "IT Intern @ Divisional Secretariat - Matara",
     skills: ["Flutter", "Dart", "PHP", "HTML5", "CSS3", "JavaScript", "MySQL", "Java"],
     designTools: ["Adobe Illustrator"],
     available: true, // open to opportunities!
