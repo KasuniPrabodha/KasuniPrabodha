@@ -21,6 +21,7 @@ class Developer {
   final String name;
   final String location;
   final String education;
+  final String currentRole;
   final List<String> skills;
   final List<String> designTools;
   final bool available;
@@ -30,6 +31,7 @@ class Developer {
     required this.name,
     required this.location,
     required this.education,
+    required this.currentRole,
     required this.skills,
     required this.designTools,
     required this.available,
@@ -42,7 +44,8 @@ void main() {
     name: "Kasuni Prabodha Waravita",
     location: "Matara, Sri Lanka",
     education: "ATI Galle · HNDIT",
-    skills: ["Flutter", "Dart", "PHP", "HTML5", "CSS3", "MySQL", "Java"],
+    currentRole: "IT Intern @ Divisional Secretariat",
+    skills: ["Flutter", "Dart", "PHP", "HTML5", "CSS3", "JavaScript", "MySQL", "Java"],
     designTools: ["Adobe Illustrator"],
     available: true, // open to opportunities!
     motto: "Where logical code meets creative design",
